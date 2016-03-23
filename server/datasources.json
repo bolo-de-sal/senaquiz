@@ -1,0 +1,14 @@
+{
+  "senaquiz": {
+    "host": "koo2dzw5dy.database.windows.net",
+    "port": 1433,
+    "database": "SenaQuiz",
+    "password": "SistemasInternet123",
+    "name": "senaquiz",
+    "user": "TSI",
+    "connector": "mssql",
+    "options": {
+      "encrypt": true
+    }
+  }
+}
